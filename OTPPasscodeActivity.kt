@@ -289,7 +289,7 @@ class OTPPasscodeActivity : AppCompatActivity() {
                             for(row in recentrow1otppasscode ){
 val rowdetails = row
 val passcodefromrow = row.passcode
-                                Log.d("databasesearch_test1_1", rowdetails.toString())
+                             
 
                                 Log.d("databasesearch_test1_2", passcodefromrow)
 
