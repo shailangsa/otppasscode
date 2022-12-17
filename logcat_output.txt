@@ -1,13 +1,3 @@
-2022-12-17 01:59:09.601 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.601 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.601 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.601 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.601 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.601 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.601 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.601 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.601 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.602 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.602 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.602 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
-2022-12-17 01:59:09.602 14766-14816/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDB
+2022-12-17 01:58:32.035 14519-14567/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
+2022-12-17 01:58:32.035 14519-14567/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDBVIABUTTON
+2022-12-17 01:58:32.035 14519-14567/com.availability.app D/databasesearch_test1_2: PACOTPPASSCODEDB
